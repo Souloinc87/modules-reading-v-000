@@ -21,7 +21,7 @@ module FancyDance
   module ClassMethods
 
     def metadata
-      "This calss produces object that love to dance."
+      "This class produces object that love to dance."
     end
   end
 end
